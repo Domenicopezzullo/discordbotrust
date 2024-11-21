@@ -1,0 +1,8 @@
+[package]
+name = "DISCORDBOTRUST"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serenity = { version = "0.12.4", features = ["full"] }
+tokio = { version = "1.41.1", features = ["rt-multi-thread"] }
