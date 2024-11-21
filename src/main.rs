@@ -22,7 +22,7 @@ impl EventHandler for Handler {
 
 #[tokio::main]
 async fn main() {
-    let token = "MTI5OTg5OTkyMzcwOTQyNzczMg.GYLAdE.7auvKEkHnvQfuJmJnbCcgHP2dy4W3ryfBuB9Go";
+    let token = "brothought";
 
     let intents = GatewayIntents::all();
 
